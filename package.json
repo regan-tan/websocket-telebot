@@ -1,0 +1,23 @@
+{
+  "name": "server-echo",
+  "version": "1.0.0",
+  "description": "some nice text here",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regan-tan/websocket-telebot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regan-tan/websocket-telebot/issues"
+  },
+  "homepage": "https://github.com/regan-tan/websocket-telebot#readme",
+  "dependencies": {
+    "ws": "^8.18.1"
+  }
+}
