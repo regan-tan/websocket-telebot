@@ -1,3 +1,5 @@
+// This is the main server file for tele bot
+
 const TelegramBot = require('node-telegram-bot-api');
 require('dotenv').config();
 
