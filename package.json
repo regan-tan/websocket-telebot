@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/regan-tan/websocket-telebot#readme",
   "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
     "ws": "^8.18.1"
   }
 }
