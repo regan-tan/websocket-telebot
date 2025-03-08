@@ -15,7 +15,7 @@ wsServer.on('connection', function (socket) {
 
         // Broadcast that message to all connected clients
         wsServer.clients.forEach(function (client){
-            client.send("Someone said " + msg);
+            client.send(msg);
         });
     })
 });
