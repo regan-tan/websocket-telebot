@@ -1,6 +1,6 @@
 # My first websocket and telebot integration project #
 
-**Youtube Demo:**
+**YouTube Demo:**
 https://youtu.be/6kieUhZrhsQ
 
 **Inspiration from:**
